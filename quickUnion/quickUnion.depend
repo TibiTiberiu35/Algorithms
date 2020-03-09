@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583767725 source:c:\users\artemis\documents\tibi\algorithms\trys\quickunion\main.cpp
+	<iostream>
+	<fstream>
+
